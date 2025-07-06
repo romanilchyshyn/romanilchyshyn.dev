@@ -19,8 +19,7 @@ to 10" rigs built for very specific purposes.
 You can find me on [github](https://github.com/romanilchyshyn) 
 and [linkedin](https://www.linkedin.com/in/romanilchyshyn).
 
-Feel free to check out my CV in [.pdf](cv-roman-ilchyshyn.pdf) 
-or [.md](cv-roman-ilchyshyn.md) format.
+Feel free to check out my CV [.pdf](cv-roman-ilchyshyn.pdf).
 
 ---
 
