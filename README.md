@@ -1,10 +1,8 @@
 # romanilchyshyn.dev
 
-## Setup
-
-Install [pandoc](https://github.com/jgm/pandoc/releases/tag/3.7.0.2).
-
 ## Build
+
+Build requires docker to use pandoc [image](https://github.com/pandoc/dockerfiles).
 
 ```sh
 source ./build.sh
