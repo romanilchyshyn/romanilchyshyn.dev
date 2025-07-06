@@ -1,4 +1,5 @@
-mkdir -p public
+rm -rf public
+mkdir public
 
 cp style.css public/style.css
 cp sitemap.xml public/sitemap.xml
